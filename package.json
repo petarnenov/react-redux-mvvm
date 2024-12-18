@@ -1,5 +1,5 @@
 {
-    "name": "hello-world-app",
+    "name": "react-redux-mvvm",
     "version": "1.0.0",
     "type": "module",
     "author": "Petar Nenov (https://github.com/petarnenov)",
@@ -58,5 +58,12 @@
     "description": "<h1 align=\"center\">New React App</h1>",
     "main": ".eslintrc.js",
     "keywords": [],
-    "license": "ISC"
+    "license": "ISC",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/petarnenov/react-redux-mvvm.git"
+    },
+    "bugs": {
+        "url": "https://github.com/petarnenov/react-redux-mvvm/issues"
+    }
 }

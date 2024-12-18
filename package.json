@@ -2,10 +2,7 @@
     "name": "hello-world-app",
     "version": "1.0.0",
     "type": "module",
-    "author": {
-        "name": "Petar Nenov",
-        "url": "https://github.com/petarnenov"
-    },
+    "author": "Petar Nenov (https://github.com/petarnenov)",
     "dependencies": {
         "@reduxjs/toolkit": "^2.5.0",
         "@testing-library/jest-dom": "^6.4.2",
@@ -57,5 +54,9 @@
         "vite-plugin-html": "^3.2.2",
         "vitest": "^1.4.0"
     },
-    "homepage": "."
+    "homepage": "http://.",
+    "description": "<h1 align=\"center\">New React App</h1>",
+    "main": ".eslintrc.js",
+    "keywords": [],
+    "license": "ISC"
 }

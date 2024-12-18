@@ -1,7 +1,7 @@
 import { NavLink } from "react-router-dom";
 import classNames from "classnames";
 
-import styles from "./TopNavigation.module.scss";
+import styles from "../TopNavigation/TopNavigation.module.scss";
 
 const TopNavigation = () => {
     return (
